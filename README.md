@@ -16,9 +16,9 @@ Data visualization of the pivot table using pivot charts
 
 ##Data Cleaning
 The raw dataset was full of blank cells on all columns, which I filled with the average value of each column calculated except the _Student ID_, which I filled with the Flash Fill button, because of the serial nature of the numbering. _Gender_, which I populated the blank cells using Find and Select command, via the Go To Special box, replicating the immediate data for the blank cells. And the _Blood Type, Diabetes, and Smoking_ columns were filled up the same as the _Gender_ columns. Thus, producing a cleaned dataset for our analysis, see the said dataset under this raw dataset.
-![](Raw_Data.pnd)
+![](Raw_Data.png)
 
-![](Medical_Student_Cleaned_Dataset.png)
+![](Medical_Student_Cleaned_Data.png)
 
 ##Activity 1 
  Getting the average values for both sexes Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol required creating a pivot table. I placed my cursor on a cell, then clicked Insert on top of the Excel ribbon, clicked on Pivot Table, the box popped up on the dataset, automatically the range in review loaded on the box, then I checked the New Worksheet to take me to a new sheet where my calculations will be done. On the new sheet, named “Pivot Table’’ the pivot table field box appeared on the right-hand side. I dragged Gender into the ROWS section and _Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol_ respectively were dragged into the VALUES section of the pivot table fields, which automatically showed the summation of the six sections. To get the average values of all, I double-clicked each column's header to go to the Value Field Setting, where I changed the default Sum value to average to arrive at the average values of all.
