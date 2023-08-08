@@ -22,7 +22,7 @@ The raw dataset was full of blank cells on all columns, which I filled with the 
 
 ## Activity 1 
  Getting the average values for both sexes Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol required creating a pivot table. I placed my cursor on a cell, then clicked Insert on top of the Excel ribbon, clicked on Pivot Table, the box popped up on the dataset, automatically the range in review loaded on the box, then I checked the New Worksheet to take me to a new sheet where my calculations will be done. On the new sheet, named “Pivot Table’’ the pivot table field box appeared on the right-hand side. I dragged Gender into the ROWS section and _Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol_ respectively were dragged into the VALUES section of the pivot table fields, which automatically showed the summation of the six sections. To get the average values of all, I double-clicked each column's header to go to the Value Field Setting, where I changed the default Sum value to average to arrive at the average values of all.
-![](Pivot Table.png)
+![]()
 
 ## Activity 2 
 Getting the average Height and Weight of the male and female students with the use of the pivot table. Going through the same process as above, then clicking Insert on top of the Excel ribbon, and clicking on Pivot Table, the box popped up on the dataset, and automatically the range in review loaded on the box, I now checked the Existing Worksheet to take me to the sheet named ‘’pivot table’’ where my calculations will be done. On the “pivot table’’ sheet, the pivot table field box appeared on the right-hand side. I dragged Gender into the row section and height and weight into the values section, which automatically produced a summation of the height and weight in the respective columns. I double-clicked each column to access the Value Field Setting, from where I changed the default ’sum’ value to average. The average values were highlighted, then I reduced the values to 2 decimal places by clicking on the ‘decrease decimal’ arrow on the ‘Home’ on the ribbon. 
@@ -32,7 +32,7 @@ Getting the average Height and Weight of the male and female students with the u
 For the last three activities of this task, the process is the same, being that we are required to get the number of students across blood types, those who smoke and those who do not, those who are diabetic and those who are not. I inserted the pivot table, dragged the Blood Type, to the ROW section, and Student ID into the VALUES section, producing a pivot table with the default summation, I changed the sum to count in the value field setting box, hence, this gave me the number of students across blood types. 
 Same for Activity 4, I inserted the pivot table, dragged the Smoking field, to the ROW section, and Student ID into the VALUES section, producing a pivot table with the default summation, I changed the sum to count in the value field setting box, hence, this gave me the number of students who smoke and those that do not. 
 Sane for the last activity, I inserted the pivot table, dragged the Diabetes field, to the ROW section, and the StudentID field into the VALUES section, producing a pivot table with the default summation, I changed the sum to count in the value field setting box, hence, this gave me the number of students who are diabetic and those who are not. 
-![](Pivot_Table_Diabetics.png)
+![](Pivot_Table_Diabetes.png)
 
 ## Task 5
 
