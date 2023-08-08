@@ -53,4 +53,7 @@ Visual reports of the Pivot Tables using Pivot Charts
 
 ![](Number_of_Diabetic&Non_Diabetic.png)
 
+## Conclusion
+These tasks have added to my knowledge bank of the understanding and know-how of Excel as a tool for data analytics. I'm glad about this milestone. More grounds to gain. Thank you
+
 
