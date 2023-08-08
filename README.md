@@ -3,7 +3,7 @@ In continuation of the 3rd Data Analytics Cohort facilitated by Promise Nonso, a
 
 ##Tasks
 Create Pivot Tables showing the following:
-•	Average values for the male’s and female’s _Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol_
+•	Average values for the male's and female’s _Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol_
 •	Average _Height and Weight_ for both Genders (in 2 decimal places)
 •	Number of students across the different _Blood Groups_
 •	Number of Students who smoke and those who don’t
